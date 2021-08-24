@@ -5,7 +5,7 @@ A frontend beginner :3
 ```js
 // .prettierrc
 {
-  "semi": true,
+  "semi": false,
   "singleQuote": false,
   "printWidth": 300
 }
