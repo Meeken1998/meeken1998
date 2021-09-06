@@ -1,4 +1,4 @@
-### Hi This is Meeken 👋
+### Hi This is Meeken 🐾
 
 A frontend beginner :3
 
