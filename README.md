@@ -2,6 +2,7 @@
 
 A frontend beginner :3
 
+- ❤️ Love my girlfriend yanyan
 - 🐱 Avatar contributed by my cat 77
 - 🏠 Living in Beijing
 - 💻 Working in [Juzi.bot](https://juzi.bot), building the next generation marketing cloud services
