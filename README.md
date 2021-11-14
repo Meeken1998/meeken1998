@@ -2,7 +2,7 @@
 
 A frontend beginner :3
 
-- ❤️ Love my girlfriend yanyan
+- ❤️ Love my girlfriend [yanyan](https://github.com/fionacat)
 - 🐱 Avatar contributed by my girlfriend
 - 🏠 Living in Beijing
 - 💻 Working in [Juzi.bot](https://juzi.bot), building the next generation marketing cloud services
