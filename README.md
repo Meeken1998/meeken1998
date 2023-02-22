@@ -1,7 +1,4 @@
-### Hi This is Meeken 🐾
-
-- [ ] Life work balance
-- [ ] Live in Shenzhen with my girl friend Yanyan
+### Hi There 🐾
 
 ---
 
